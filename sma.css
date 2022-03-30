@@ -1,0 +1,250 @@
+body {
+  margin: 0;
+}
+
+.title {
+  color: #02ccba;
+}
+
+header{
+  background-image: url(http://www.minkobo.com/wp-content/uploads/2019/05/7090e58f.jpg);
+  background-size: cover;
+  padding-bottom: 680px;
+
+}
+
+.a {
+
+}
+
+.header-left {
+
+}
+
+.header-left img {
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+  float: left;
+  background-color: red;
+}
+
+.header-right {
+  float: right;
+}
+
+.header-right img {
+  float: right;
+  width: 100px;
+  background-image: url(http://www.minkobo.com/wp-content/uploads/2019/05/7090e58f.jpg);
+  background-size: cover;
+}
+
+.header-right p {
+  float: right;
+  padding-right: 15px;
+  background-color: black;
+  color: white;
+}
+
+.top-wrapper {
+  position: absolute;
+  top: 450px;
+  width: 100%;
+
+}
+
+.b {
+
+}
+
+.logo {
+  float: left;
+  display: inline-block;
+}
+
+.logo img {
+  height: 430px;
+  width: 780px;
+  position: relative;
+}
+
+.summary {
+  position: absolute;
+  right: 70px;
+  padding: 180px 0 0 0;
+
+  display: inline-block;
+  float: left;
+}
+
+.contents {
+
+}
+
+.content {
+  text-align: center;
+  float: left;
+  background-color: black;
+  margin: 0 3px;
+  width: 100px;
+  height: 100px;
+  padding: 20px 10px 0 10px;
+  position: relative;
+  transition: all 0.1s;
+}
+
+.content:hover {
+  background-color: #333333;
+}
+
+.content img {
+  width: 50px;
+  height: 50px;
+  margin-bottom: 5px;
+}
+
+.content p {
+  color: white;
+  margin: auto;
+  font-weight: bold;
+}
+
+.scale img {
+  background-color: red;
+}
+
+.scale p:hover {
+  color: red;
+}
+
+.fighter img {
+  background-color: green;
+}
+
+.play img {
+  background-color: blue;
+}
+
+.stage img {
+  background-color: orange;
+}
+
+.item img {
+  background-color: yellow;
+}
+
+.sound img {
+  background-color: skyblue;
+}
+
+.commerce h1 {
+
+  float: left;
+
+  width: 500px;
+  font-size: 40px;
+
+}
+
+.commerce p {
+  color: orange;
+  background-color: black;
+  display: inline-block;
+  width: 240px;
+  line-height: 50px;
+  text-align: center;
+  font-family: "Lucida Grande";
+
+}
+
+.info {
+  margin: 200px 110px 0 110px;
+  height: 180px;
+  position: relative;
+  background-color: black;
+}
+
+.left {
+  width: 330px;
+  height: 175px;
+  float: left;
+
+}
+
+.left h1 {
+
+  font-size: 85px;
+  color: white;
+  font-family: "Lucida Grande";
+  line-height: 10px;
+}
+
+.left p {
+  background-color: red;
+  font-size: 25px;
+}
+
+.new img {
+  width: 530px;
+  height: 150px;
+  float: left;
+  margin-top: 15px;
+}
+
+.letter {
+  width: 380px;
+  height: 175px;
+  display: inline-block;
+  color: red;
+  float: left;
+}
+
+.letter h2 {
+  font-size: 38px;
+}
+
+.letter h1 {
+  font-size: 50px;
+}
+
+.dire p {
+  display: inline-block;
+  height: 160px;
+  line-height: 140px;
+  background-color: red;
+  font-size: 20px;
+  width: 39px;
+}
+
+.detail {
+  color: gray;
+  font-size: 3px;
+  margin: 0 0 0 20px;
+  border: 5px solid red;
+}
+
+.detail img {
+  margin: 0 0 0 505px;
+  width: 70px;
+}
+
+.chara {
+  border: 5px solid green;
+  float: left;
+}
+
+footer {
+  margin: 100px 0 0 0;
+  border-top: 1px solid gray;
+}
+
+footer li {
+  float: left;
+  list-style: none;
+  margin: 0 0 0
+}
+
+.sap {
+  margin: 0 3000px 0 0;
+}
